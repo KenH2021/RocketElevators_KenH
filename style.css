@@ -1,0 +1,77 @@
+.my-container{
+   background-color:rgba(140, 197, 235, 0.164) ;
+   width: 700px;
+    margin-top: 20px;
+    margin:auto;
+    padding: 40px;
+    justify-content: center;
+    align-content: center;
+}
+
+.residential_container{
+    background-color:rgba(83, 83, 83, 0.048) ;
+    width: 750px;
+    margin-top: 15px;
+    margin:auto;
+    padding: 40px;
+    justify-content: center;
+    align-content: center;
+ }
+
+ .img_block{
+
+width: 800px;
+}
+
+ .commercial_container{
+    background-color:rgba(83, 83, 83, 0.048) ;
+    width: 750px;
+    margin-top: 15px;
+    margin:auto;
+    padding: 40px;
+    justify-content: center;
+    align-content: center;
+ }
+
+select.form-control:not([size]):not([multiple]) {
+    -webkit-appearance: none;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAGCAMAAADNLv/0AAAANlBMVEUAAAD///+ZmZmfoqiaoKydo6ueo6ucpKqdo6qdoqqeoqqdo6qdoqqdo6qco6mdo6qcoqmdo6rJSltEAAAAEHRSTlMAAQVSU5Wmrbe+1NXf5f7+fUgvXAAAAC5JREFUeNodxkkCABAMBMEhiDX4/2fJ9KULLYHlhW5C3YIwvikgThOK3kcddPU9JQ4BFWtk/ScAAAAASUVORK5CYII=) no-repeat;
+    background-color: #fff;
+    color: #636363;
+    background-position: center right 15px;
+}
+
+
+#sidepanel.sidepanel-theme-color, div.alert.alert-theme-color, div.alert.alert-primary, span.badge-default, span.badge-default, .list-group-item.active>.badge.badge-default, .nav-tabs.nav-alternate>li>a.active, .datepicker table tr td.active.active, .callout-theme-color, .progress-bar-primary, .toast-primary, .owl-theme .owl-controls .owl-page span, .open>.dropdown-toggle.btn-primary, .show>.btn-primary.dropdown-toggle, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:focus, .pagination>.active>a, .pagination>.active>a:hover, #header li.quick-cart .quick-cart-box a.btn, #header li.quick-cart .quick-cart-box a.btn:hover, #topMain.nav-pills>li.active>a>span.theme-color, .ei-slider-thumbs li.ei-slider-element, .flex-control-paging li a.flex-active, .tp-caption.block_theme_color, .tp-bullets.simplebullets.round .bullet.selected, i.ico-color, .caption-primary, .shop-list-options .btn.active, .box-static.box-color, .switch.switch-primary > input:checked + .switch-label, .fancy-file-upload.fancy-file-primary>span.button, .primary-slider .ui-slider .ui-slider-handle:before, .primary-slider .ui-slider .ui-slider-range, .ribbon-inner, .info-bar.info-bar-color, .music-album-title:hover, .inews-item .inews-thumbnail .inews-sticky, #progressBar #bar, #page-menu, #page-menu ul {
+    background-color: #fa0202;
+}
+
+#sidepanel.sidepanel-theme-color, div.alert.alert-theme-color, div.alert.alert-primary, span.badge-default, span.badge-default, .list-group-item.active>.badge.badge-default, .nav-tabs.nav-alternate>li>a.active, .datepicker table tr td.active.active, .callout-theme-color, .progress-bar-primary, .toast-primary, .owl-theme .owl-controls .owl-page span, .open>.dropdown-toggle.btn-primary, .show>.btn-primary.dropdown-toggle, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:focus, .pagination>.active>a, .pagination>.active>a:hover, #header li.quick-cart .quick-cart-box a.btn, #header li.quick-cart .quick-cart-box a.btn:hover, #topMain.nav-pills>li.active>a>span.theme-color, .ei-slider-thumbs li.ei-slider-element, .flex-control-paging li a.flex-active, .tp-caption.block_theme_color, .tp-bullets.simplebullets.round .bullet.selected, i.ico-color, .caption-primary, .shop-list-options .btn.active, .box-static.box-color, .switch.switch-primary > input:checked + .switch-label, .fancy-file-upload.fancy-file-primary>span.button, .primary-slider .ui-slider .ui-slider-handle:before, .primary-slider .ui-slider .ui-slider-range, .ribbon-inner, .info-bar.info-bar-color, .music-album-title:hover, .inews-item .inews-thumbnail .inews-sticky, #progressBar #bar, #page-menu, #page-menu ul {
+    background-color: #fa0202;
+}
+
+.txt-comm{
+    justify-content: center;
+    margin: auto;
+
+}
+
+.frame {
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    
+}
+
+.btn-success{
+    color: #ffffff;
+    background-color: #c02525;
+    border-color: #c02525;
+}
+
+
+.btn-warning{
+    color: #ffffff;
+    background-color: #c02525;
+    border-color: #c02525;
+}
